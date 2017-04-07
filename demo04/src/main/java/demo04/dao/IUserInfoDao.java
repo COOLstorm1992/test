@@ -1,5 +1,5 @@
 package demo04.dao;
 
-public class IUserInfoDao {
+public interface IUserInfoDao {
 
 }
